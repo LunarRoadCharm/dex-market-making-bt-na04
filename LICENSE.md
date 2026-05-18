@@ -1,4 +1,4 @@
-# 
+# automatic deribit trading bot scripts is the best deribit trading bot scripts with slippage-control and futures-arbitrage. Safe, reliable, and optimized for CEX, DEX, and
 
 
 
